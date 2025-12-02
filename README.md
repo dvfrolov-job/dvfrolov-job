@@ -50,12 +50,12 @@
     EDA, анализ утилизации.</td>
   </tr>
   <tr>
-    <td>📌 <strong><a href="https://github.com/dvfrolov-job/tranport-company-analysis](https://datalens.yandex/xdisrf01panij" target="_blank">Макет дашборда для мониторинга утилизации и недогрузов</a></strong><br/>
-    .</td>
+    <td>📌 <strong><a href="https://github.com/dvfrolov-job/tranport-company-analysis](https://datalens.yandex/xdisrf01panij" target="_blank">Макет дашборда для мониторинга утилизации и недогрузов транспортной компании</a></strong><br/>
+    Макет ДБ для ежедневного мониторинга стоимости и уитлизации для менеджеров транспортной компании.</td>
   </tr>
   <tr>
     <td>📌 <strong><a href="https://github.com/dvfrolov-job/tranport-company-analysis](https://datalens.yandex/xdisrf01panij](https://datalens.yandex/g843vynk7adu1" target="_blank">Макет дашборда для анализа метрик рынка недвижимости</a></strong><br/>
-    .</td>
+    Макет дашборда для изучения метрик приложения по доставке еды.</td>
   </tr>
 </table>
 
